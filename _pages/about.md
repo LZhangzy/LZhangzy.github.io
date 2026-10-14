@@ -1,58 +1,128 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Ziyi Zhang — Ph.D. student at Wuhan University."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Ziyi Zhang (张子怡)**, a first-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. Xinlei He.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include **trustworthy AI**, **multimodal large language models**, and **embodied intelligence**.
 
+Before joining Wuhan University, I completed my postgraduate studies at City University of Hong Kong. I received dual bachelor's degrees in Management and Finance from Jilin University.
+
+I welcome academic discussions and the exchange of research ideas. Please feel free to contact me at [ziyizhang26@whu.edu.cn](mailto:ziyizhang26@whu.edu.cn).
+
+[Google Scholar](https://scholar.google.com/citations?user=VtQxTU8AAAAJ&hl=en) | [GitHub](https://github.com/LZhangzy) | Citations: <span id='total_cit'>—</span>
+
+
+<span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<span class='anchor' id='publications'></span>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 📝 Publications & Preprints
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## Conference Papers
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+### FC-Attack: Jailbreaking Multimodal Large Language Models via Auto-Generated Flowcharts
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Ziyi Zhang**, Zhen Sun, Zongmin Zhang, Jihui Guo, Xinlei He.
+
+*Findings of the Association for Computational Linguistics: EMNLP 2025*, pp. 9299–9316.
+
+[Paper](https://aclanthology.org/2025.findings-emnlp.494/) | [PDF](https://aclanthology.org/2025.findings-emnlp.494.pdf) | [Code](https://github.com/ZZYHKUSTGZ/FC_Attack)
+
+---
+
+### Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media
+
+Zhen Sun, Zongmin Zhang, Xinyue Shen, **Ziyi Zhang**, Yule Liu, Michael Backes, Yang Zhang, Xinlei He.
+
+*Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, ACL 2025, pp. 22975–23005.
+
+[Paper](https://aclanthology.org/2025.acl-long.1120/) | [PDF](https://aclanthology.org/2025.acl-long.1120.pdf) | [Code](https://github.com/TrustAIRLab/AIGT_on_Social_Media)
+
+
+## Preprints
+
+### "I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments
+
+**Ziyi Zhang**, Zhen Sun, Zongmin Zhang, Zifan Peng, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He.
+
+*arXiv preprint*, arXiv:2505.04488, 2025.
+
+[Paper](https://arxiv.org/abs/2505.04488) | [PDF](https://arxiv.org/pdf/2505.04488)
+
+---
+
+### Can VLMs Detect and Localize Fine-Grained AI-Edited Images?
+
+Zhen Sun, **Ziyi Zhang**, Zeren Luo, Zhiyuan Zhong, Zeyang Sha, Tianshuo Cong, Zheng Li, Shiwen Cui, Weiqiang Wang, Jiaheng Wei, Xinlei He, Qi Li, Qian Wang.
+
+*arXiv preprint*, arXiv:2505.15644, 2025.
+
+Earlier version: *FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models*.
+
+[Paper](https://arxiv.org/abs/2505.15644) | [PDF](https://arxiv.org/pdf/2505.15644)
+
+---
+
+### Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications
+
+Wenhan Dong, Yuemeng Zhao, Zhen Sun, Yule Liu, Zifan Peng, Jingyi Zheng, Zongmin Zhang, **Ziyi Zhang**, Jun Wu, Ruiming Wang, Shengmin Xu, Xinyi Huang, Xinlei He.
+
+*arXiv preprint*, arXiv:2505.00049, 2025.
+
+[Paper](https://arxiv.org/abs/2505.00049) | [PDF](https://arxiv.org/pdf/2505.00049)
+
+
+<span class='anchor' id='awards'></span>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<span class='anchor' id='education'></span>
+
+# 🎓 Education
+
+- **Wuhan University**  
+  Ph.D. student, School of Cyber Science and Engineering.  
+  Advisor: Prof. Xinlei He.
+
+- **City University of Hong Kong**  
+  Completed postgraduate studies.
+
+- **Jilin University**  
+  Dual bachelor's degrees in Management and Finance.
+
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+**Research Assistant**  
+**The Hong Kong University of Science and Technology (Guangzhou)**  
+2024–2026
+
+Conducted research on large language model jailbreaking and multimodal large language models.
+
+
+<span class='anchor' id='contact'></span>
+
+# 📬 Contact
+
+I welcome academic discussions and opportunities to exchange research ideas.
+
+- **Email:** [ziyizhang26@whu.edu.cn](mailto:ziyizhang26@whu.edu.cn)
+- **Affiliation:** School of Cyber Science and Engineering, Wuhan University
+- **Location:** Wuhan, Hubei, China
+- **Google Scholar:** [Ziyi Zhang](https://scholar.google.com/citations?user=VtQxTU8AAAAJ&hl=en)
+- **GitHub:** [LZhangzy](https://github.com/LZhangzy)
