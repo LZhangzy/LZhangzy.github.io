@@ -84,6 +84,21 @@ Before joining Wuhan University, I completed my postgraduate studies at City Uni
 
 # 📝 Publications & Preprints
 
+## Journal Papers
+
+### 面向深度伪造视频的可解释检测研究
+
+*Research on Interpretable Detection of Deepfake Videos*
+
+**Ziyi Zhang**, Zeren Luo, Yule Liu, Zhen Sun, Yuemeng Zhao, Xinlei He.
+
+<p class="publication-venue"><strong>网络空间安全科学学报</strong> &middot; 2026, 4(4): 17–28</p>
+
+<div class="paper-links">
+  <a href="https://www.journalofcybersec.cn/CN/10.20172/j.issn.2097-3136.260805">Paper</a>
+  <a href="https://doi.org/10.20172/j.issn.2097-3136.260805">DOI</a>
+</div>
+
 ## Conference Papers
 
 ### FC-Attack: Jailbreaking Multimodal Large Language Models via Auto-Generated Flowcharts
@@ -159,6 +174,7 @@ Wenhan Dong, Yuemeng Zhao, Zhen Sun, Yule Liu, Zifan Peng, Jingyi Zheng, Zongmin
 
 /# 🎖 Honors and Awards
 
+- **2026:** **2025–2026 Outstanding Paper**, *网络空间安全科学学报*, for [面向深度伪造视频的可解释检测研究](https://www.journalofcybersec.cn/CN/10.20172/j.issn.2097-3136.260805).
 
 <span class='anchor' id='education'></span>
 
