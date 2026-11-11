@@ -59,7 +59,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Ziyi Zhang (张子怡)**, a first-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. Xinlei He.
+I am Ziyi Zhang (张子怡), a first-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University. I am honored to study under the supervision of Prof. Xinlei He.
 
 My research interests include **Trustworthy AI**, **Multimodal Large Language models**, and **Embodied Intelligence**.
 
@@ -157,7 +157,7 @@ Wenhan Dong, Yuemeng Zhao, Zhen Sun, Yule Liu, Zifan Peng, Jingyi Zheng, Zongmin
 
 <span class='anchor' id='awards'></span>
 
-# 🎖 Honors and Awards
+/# 🎖 Honors and Awards
 
 
 <span class='anchor' id='education'></span>
@@ -169,7 +169,7 @@ Wenhan Dong, Yuemeng Zhao, Zhen Sun, Yule Liu, Zifan Peng, Jingyi Zheng, Zongmin
   Advisor: Prof. Xinlei He.
 
 - **City University of Hong Kong**  
-  Completed postgraduate studies.
+ Major in Business and Data Analytics.
 
 - **Jilin University**  
   Dual bachelor's degrees in Management and Finance.
@@ -183,7 +183,7 @@ Wenhan Dong, Yuemeng Zhao, Zhen Sun, Yule Liu, Zifan Peng, Jingyi Zheng, Zongmin
 **The Hong Kong University of Science and Technology (Guangzhou)**  
 2024–2026
 
-Conducted research on large language model jailbreaking and multimodal large language models.
+Conducted research on Jailbreaking and Multimodal Large Language Models.
 
 
 <span class='anchor' id='contact'></span>
@@ -191,10 +191,4 @@ Conducted research on large language model jailbreaking and multimodal large lan
 # 📬 Contact
 
 I welcome academic discussions and opportunities to exchange research ideas.
-
-- **Email:** [ziyizhang26@whu.edu.cn](mailto:ziyizhang26@whu.edu.cn)
-- **Affiliation:** School of Cyber Science and Engineering, Wuhan University
-- **Location:** Wuhan, Hubei, China
-- **Google Scholar:** [Ziyi Zhang](https://scholar.google.com/citations?user=VtQxTU8AAAAJ&hl=en)
-- **GitHub:** [LZhangzy](https://github.com/LZhangzy)
 
