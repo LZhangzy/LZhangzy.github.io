@@ -77,6 +77,7 @@ Before joining Wuhan University, I completed my postgraduate studies at City Uni
 
 # 🔥 News
 
+- **2026.10:** Our paper [面向深度伪造视频的可解释检测研究](https://www.journalofcybersec.cn/CN/10.20172/j.issn.2097-3136.260805) was selected as a **2025–2026 Outstanding Paper** by *网络空间安全科学学报*.
 - **2025.11:** Our paper [FC-Attack](https://aclanthology.org/2025.findings-emnlp.494/) was published in **Findings of EMNLP 2025**.
 - **2025.07:** Our paper on [quantifying and monitoring AI-generated text on social media](https://aclanthology.org/2025.acl-long.1120/) was published in **ACL 2025**. 
 
