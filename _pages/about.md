@@ -61,11 +61,10 @@ redirect_from:
 
 I am **Ziyi Zhang (张子怡)**, a first-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. Xinlei He.
 
-My research interests include **trustworthy AI**, **multimodal large language models**, and **embodied intelligence**.
+My research interests include **Trustworthy AI**, **Multimodal Large Language models**, and **Embodied Intelligence**.
 
 Before joining Wuhan University, I completed my postgraduate studies at City University of Hong Kong. I received dual bachelor's degrees in Management and Finance from Jilin University.
 
-I welcome academic discussions and the exchange of research ideas. Please feel free to contact me at [ziyizhang26@whu.edu.cn](mailto:ziyizhang26@whu.edu.cn).
 
 <div class="paper-links">
   <a href="https://scholar.google.com/citations?user=VtQxTU8AAAAJ&amp;hl=en">Google Scholar</a>
@@ -79,10 +78,7 @@ I welcome academic discussions and the exchange of research ideas. Please feel f
 # 🔥 News
 
 - **2025.11:** Our paper [FC-Attack](https://aclanthology.org/2025.findings-emnlp.494/) was published in **Findings of EMNLP 2025**.
-- **2025.07:** Our paper on [quantifying and monitoring AI-generated text on social media](https://aclanthology.org/2025.acl-long.1120/) was published in **ACL 2025**.
-- **2025.05:** We released preprints on [real-time VideoLLMs for visual assistance](https://arxiv.org/abs/2505.04488) and [fine-grained AI-edited image detection (FragFake)](https://arxiv.org/abs/2505.15644).
-- **2025.04:** We released [Humanizing LLMs](https://arxiv.org/abs/2505.00049), a survey of psychological measurements, tools, datasets, and human-agent applications.
-
+- **2025.07:** Our paper on [quantifying and monitoring AI-generated text on social media](https://aclanthology.org/2025.acl-long.1120/) was published in **ACL 2025**. 
 
 <span class='anchor' id='publications'></span>
 
