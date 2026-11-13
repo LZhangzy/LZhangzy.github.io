@@ -82,7 +82,7 @@ Before joining Wuhan University, I completed my postgraduate studies at City Uni
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications & Preprints
+# 📝 Publications and Preprints
 
 ## Journal Papers
 
