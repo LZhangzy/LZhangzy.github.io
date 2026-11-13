@@ -69,7 +69,6 @@ Before joining Wuhan University, I completed my postgraduate studies at City Uni
 <div class="paper-links">
   <a href="https://scholar.google.com/citations?user=VtQxTU8AAAAJ&amp;hl=en">Google Scholar</a>
   <a href="https://github.com/LZhangzy">GitHub</a>
-  <span class="citation-stat">Citations: <span id="total_cit">—</span></span>
 </div>
 
 
@@ -173,7 +172,7 @@ Wenhan Dong, Yuemeng Zhao, Zhen Sun, Yule Liu, Zifan Peng, Jingyi Zheng, Zongmin
 
 <span class='anchor' id='awards'></span>
 
-/# 🎖 Honors and Awards
+# 🎖 Honors and Awards
 
 - **2026:** **2025–2026 Outstanding Paper**, *网络空间安全科学学报*, for [面向深度伪造视频的可解释检测研究](https://www.journalofcybersec.cn/CN/10.20172/j.issn.2097-3136.260805).
 
